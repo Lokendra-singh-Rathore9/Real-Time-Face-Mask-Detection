@@ -3,12 +3,6 @@
 ## SSDMNV2: Single Shot Multibox Detector and MobileNetV2
 Developed lightweight MobileNetV2 face mask detection model for identifying a person wearing a mask or not with an accuracy of 92.64% and f1 score of 0.93%.
 
-## Demonstration of Project:
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/47279598/123558600-c7235a00-d7b4-11eb-876d-73d1ec19b1bf.gif" />
-</p>
-
-
 ### Link for Research Paper: https://www.sciencedirect.com/science/article/pii/S2210670720309070#bib0195
 ### Contributed in other researches: https://scholar.google.com/citations?user=73b_WZcAAAAJ&hl=en
 ### Link to Download Complete Dataset: https://github.com/TheSSJ2612/Real-Time-Medical-Mask-Detection/releases/download/v0.1/Dataset.zip
@@ -213,14 +207,5 @@ Figure 8: Comparison with other implementations
 - Incorporating model into raspberry pi for real time identification.
 - Other researchers can use the dataset provided in this paper for further advanced models such as those of face recognition, facial landmarks, and facial part detection process.
 
-## 13. Credits: 
-Thanking my project teammates for caring and supporting me wholeheartedly. The role you played in my life is invaluable. I’m grateful for all of your help and continued support.
-<div class="align-text">
-  <p>
-   <p text-align= "justify"> Agam Madan : https://www.linkedin.com/in/agam-madan/  </p>   
-   <p text-align= "justify"> Rohan Arora : https://www.linkedin.com/in/rohanarora18/  </p> 
-  </p>
-</div>
-
-## 14. License: 
+## 13. License: 
 - Apache License 2.0
